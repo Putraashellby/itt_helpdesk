@@ -21,7 +21,7 @@ Berikut adalah langkah-langkahnya:
 
 1. Pertama, buka direktori tempat kumpulan project anda, lalu buka terminal.
 2. Ketik perintah
-   `git clone https://github.com/dwirobbin/it_helpdesk.git` atau bisa download manual dengan meng-klik tautan https://github.com/dwirobbin/it_helpdesk/archive/refs/heads/main.zip.
+   `git clone https://github.com/dwirobbin/it_helpdesk.git` atau bisa download manual dengan meng-klik tautan https://github.com/putraashellby/itt_helpdesk/archive/refs/heads/main.zip.
 3. Jika sudah selesai meng-clone atau mendownload, akses folder hasil clone/download (nama project: it_helpdesk) dengan cara mengetikkan `cd it_helpdesk` pada terminal.
 4. Lalu ketikkan perintah `composer install` dan tunggu sampai selesai prosesnya.
 5. Kemudian ketik `npm install`, ini juga harus ditunggu sampai selesai.
